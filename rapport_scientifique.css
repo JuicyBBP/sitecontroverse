@@ -1,0 +1,15 @@
+.rapport-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.rapport-content h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.rapport-content p {
+    text-align: justify;
+    margin-bottom: 20px;
+}

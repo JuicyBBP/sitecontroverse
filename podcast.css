@@ -1,0 +1,37 @@
+.podcast-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.podcast-player {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+audio {
+    width: 100%;
+}
+
+.podcast-description {
+    text-align: justify;
+}
+
+
+
+.nav-link {
+    margin-left: 10px;
+}
+
+
+.nav-link {
+    flex: 1;
+    text-align: center;
+}
+
+
+@media (min-width: 768px) {
+    .nav-link {
+        max-width: 120px;
+    }
+}
